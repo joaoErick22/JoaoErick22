@@ -1,3 +1,6 @@
+
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jo%C3%A3o+Erick;Software+Developer;Computer+Science+%7C+Cyber;Python+%7C+IA+%7C+Security)
+
 # 🧠 Hi, I'm João Erick
 
 💻 Software Developer | Computer Science
