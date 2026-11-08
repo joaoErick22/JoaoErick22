@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🧠 Hi, I'm João Erick
 
-<!--
-**joaoErick22/JoaoErick22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Computer Science
+🐍 Python | 🛡️ Cyber | 🤖 IA
 
-Here are some ideas to get you started:
+### 🛠️ Stack
+`Python` `HTML` `CSS` `Git` `GitHub` `Linux` `Js` `Node.Js`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 O que eu construo
+- Projetos em Diversas Ferramentas
+- Estudos de Cybersecurity e IA
+- Conteúdo tech e evolução na área
+
+### 📫 Onde me achar
+- 💼 [LinkedIn](https://www.linkedin.com/in/joão-erick-50a25844a)
