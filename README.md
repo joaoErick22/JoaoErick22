@@ -18,4 +18,6 @@
 ### 📫 Onde me achar
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-erick-50a25844a)
 
+![Snake animation](https://raw.githubusercontent.com/JoaoErick22/JoaoErick22/output/github-contribution-grid-snake.svg)
+
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00BFFF&height=120&section=footer)
