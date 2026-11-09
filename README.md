@@ -17,3 +17,5 @@
 
 ### 📫 Onde me achar
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-erick-50a25844a)
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00BFFF&height=120&section=footer)
