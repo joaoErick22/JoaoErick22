@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00BFFF&height=200&section=header&text=Jo%C3%A3o%20Erick&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jo%C3%A3o+Erick;Software+Developer;Computer+Science+%7C+Cyber;Python+%7C+IA+%7C+Security)
 
 # 🧠 Hi, I'm João Erick
