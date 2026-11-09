@@ -1,6 +1,6 @@
 <img src="banner.jpg" width="100%" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jo%C3%A3o+Erick;Software+Developer;Computer+Science+%7C+Cyber;Python+%7C+IA+%7C+Security)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=600&lines=Hi%2C+I'm+Jo%C3%A3o+Erick;Software+Developer;Cyber+%7C+Python+%7C+IA)](https://git.io/typing-svg)
 
 # 🧠 Hi, I'm João Erick
 
